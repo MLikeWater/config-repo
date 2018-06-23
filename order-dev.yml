@@ -22,3 +22,5 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 evn:
   dev
+label:
+  release
