@@ -21,4 +21,4 @@ PRODUCT:
     #轮询机制
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 env:
-  test3
+  test
