@@ -20,5 +20,5 @@ PRODUCT:
     #NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
     #轮询机制
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
-evn:
+env:
   dev
