@@ -22,3 +22,6 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 env:
   test
+girl:
+  name: lili
+  age: 18
